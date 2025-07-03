@@ -1,96 +1,91 @@
-<!-- Centered animated header -->
+<!-- Animated intro header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF61A6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Sarmitha+%F0%9F%91%8B;Machine+Learning+Engineer+%F0%9F%94%AC+Deep+Thinker+%7C+Creative+Builder;I+transform+Math+into+Models+into+Impact+%F0%9F%92%AF" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I+am+Sarmitha+%F0%9F%91%8B;Machine+Learning+Enthusiast+%7C+Techy+Girl+in+Action+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Spanning+through+all+dimensions+with+AI+%F0%9F%98%85+;Building+Intelligent+Solutions+with+Code+%F0%9F%92%BB%F0%9F%A7%91%E2%80%8D%F0%9F%A7%A0"
+  alt="Typing SVG">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" alt="Techy girl AI builder"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-✨ **Final-year ML Engineer** from Sri Ramakrishna Engineering College  
-🧠 Passionate about building **math-powered machine learning tools** with real-world impact  
-📈 I specialize in **explainable AI**, **healthcare AI**, and **interactive visualizations**  
-🎯 From **pneumonia detection** to **linear algebra solvers**, I blend science with storytelling
+🎓 Final-year ML-focused engineer at Sri Ramakrishna Engineering College (CGPA: **9.15/10**)
+🧠 Passionate about **AI**, **ML**, and **explainable models** that make a difference
+💡 Love turning math into visual tools: Gaussian elimination, PCA, matrix transformations
+⚙️ Deployed real-world projects in healthcare, finance, and resume optimization
+📝 IEEE Scopus-indexed author on IoT prosthetic monitoring
+🚀 Constantly exploring, building, learning — one model at a time 💥
 
 ---
 
 ## 🛠 Tech Toolbox
 
-> Everything I use to turn data into decisions 🚀
-
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> TensorFlow</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/> Keras</td>
-    <td><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="80"/> Streamlit</td>
+    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></picture></td>
+    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></picture></td>
+    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></picture></td>
+    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></picture></td>
+    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/></picture></td>
+    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/></picture></td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlight Projects
 
-### 🧠 Linear Algebra Visual Toolkit  
-> 📐 Gaussian Solver • 🌐 Matrix Transformer (2D/3D with Plotly) • 📊 PCA from scratch  
-> 👩‍🏫 **Made for learners, educators, and visual thinkers**
+### 🫁 AI Pneumonia Detector
 
-[![Repo](https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
-[![App](https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://linear-algebra-visual-toolkit.streamlit.app)
+> Real-time X-ray classification using MobileNetV2 + Grad-CAM
+> Achieved 96% accuracy and AUC 0.995 — deployed with Streamlit
+> [Live App](https://pneumoniadetection.streamlit.app) | [Repo](https://github.com/sarmi2325/Pneumonia_detection)
 
----
+### 📐 Linear Algebra Visual Toolkit
 
-### 🫁 Pneumonia Detector with Explainable AI  
-> 📷 X-ray classification with CNN, MobileNetV2, EfficientNetB0  
-> 🔍 Grad-CAM heatmaps for visual explanations  
-> 🩺 Deployed on Streamlit with real-time predictions
+> Gaussian Elimination, Matrix Transformations, PCA — all from scratch
+> Interactive + educational + beautifully visualized in Streamlit
+> [Live App](https://linear-algebra-visual-toolkit.streamlit.app) | [Repo](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github)](https://github.com/sarmi2325/Pneumonia_detection)
-[![App](https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit)](https://pneumoniadetection.streamlit.app)
+### 📉 Customer Churn Predictor
 
----
+> Built with Logistic Regression + LGBM + SHAP explainability
+> Batch upload + threshold sliders for full interactivity
+> [Live App](https://churnpredictionwebsite.streamlit.app) | [Repo](https://github.com/sarmi2325/Churn_Prediction_website)
 
-### 📉 Customer Churn Prediction App  
-> 📦 Logistic Regression + LightGBM Stacking  
-> 📊 SHAP explainability + SMOTE balancing  
-> 🧑‍💼 Interactive web interface with threshold tuning
+### 💸 Expense Tracker (Coming Soon)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github)](https://github.com/sarmi2325/Churn_Prediction_website)
-[![App](https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit)](https://churnpredictionwebsite.streamlit.app)
+> Intuitive Streamlit web app to track expenses and spending habits
+> Focus on dashboards, pie charts, and interactive categories
 
----
+### ✍️ Scriptum — Blog App (Coming Soon)
 
-## 🏆 Achievements
-
-- 🥇 **Sri P. Ramasamy Naidu Memorial Award** – Highest CGPA (2021–2023)
-- 🧠 Top 50 Finalist – **Thryve Digital Hackathon**
-- 📜 **IEEE Scopus Indexed Publication** – IoT-based prosthetic leg monitoring system
+> Blog-driven platform with Markdown support
+> Built using Streamlit + Firebase with user auth and search
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmi2325&show_icons=true&theme=radical" width="47%">
-  <img src="https://streak-stats.demolab.com?user=sarmi2325&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarmi2325&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=sarmi2325&theme=radical" width="47%"/>
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Reach Me Here
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sarmithas)  
-📧 **sarmi8822@gmail.com**  
-📄 [Resume](https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing)  
-🌐 [Portfolio](https://your-portfolio.com) (coming soon!)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/sarmithas)
+📧 **[sarmi8822@gmail.com](mailto:sarmi8822@gmail.com)**
+📄 [View Resume](https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing)
+🌐 [Portfolio](https://your-portfolio.com) *(Coming soon)*
 
 ---
 
@@ -98,6 +93,5 @@
   <img src="https://media.giphy.com/media/xUOxfjsW0YpJ8CKMt2/giphy.gif" width="300">
 </p>
 
-> _“If you can visualize it, you can understand it.”_ — *Sarmitha S*
-
+> *"If you can visualize it, you can understand it." — Sarmitha S*
 
