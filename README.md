@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=9VI8KbP5hWkt&format=png&color=000000" width="30" height="30"> About Me
+## <img src="https://img.icons8.com/?size=100&id=9VI8KbP5hWkt&format=png&color=000000" width="20" height="20"> About Me
 
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
@@ -39,7 +39,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=52117&format=png&color=000000" width="30" height="30"> Tech Toolbox
+## <img src="https://img.icons8.com/?size=100&id=52117&format=png&color=000000" width="20" height="20"> Tech Toolbox
 
 <p align="center">
   <table>
@@ -68,7 +68,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="30" height="30"> Projects
+## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
 ### 🫁 AI Pneumonia Detector
 
@@ -100,7 +100,7 @@ Includes login, search, and publishing features.
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="30" height="40"> GitHub Stats
+## <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="20" height="20"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarmi2325&show_icons=true&theme=radical" width="47%"/>
