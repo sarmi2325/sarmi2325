@@ -130,6 +130,6 @@ Includes login, search, and publishing features.
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/0DTMGnGk6ZchzDyRRA/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3owaTJ2cHBuaDN2YTNtcjJvdzJ2emo0NzN1dWZhOTlscnk0NW5ndSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PXuwQk2UVnZ3y9U0p8/giphy.gif" width="250">
   <br><sub><i>(Exploring new models... stay tuned for more 🤖)</i></sub>
 </p>
