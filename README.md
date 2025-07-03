@@ -70,7 +70,7 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
-### 🫁 AI Pneumonia Detector
+### <img src="https://img.icons8.com/?size=100&id=PQWF74ssNXGy&format=png&color=000000" width="20" height="20"> AI Pneumonia Detector
 
 Real-time X-ray classification using MobileNetV2 + Grad-CAM.
 Achieved 96% accuracy and AUC 0.995 — deployed with Streamlit.
@@ -93,11 +93,6 @@ Batch upload + threshold sliders for full interactivity.
 Intuitive Streamlit app to track spending habits.
 Includes dynamic dashboards and budget visualization.
 
-### ✍️ Scriptum Blog App (Coming Soon)
-
-Markdown-based blogging platform using Streamlit + Firebase.
-Includes login, search, and publishing features.
-
 ---
 
 ## <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="20" height="20"> GitHub Stats
@@ -116,7 +111,7 @@ Includes login, search, and publishing features.
   <a href="mailto:sarmi8822@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1rY9Io6SYrpcJSKMXH5lwAV3yPSULYoBI/view?usp=sharing">
     <img src="https://img.icons8.com/?size=100&id=63919&format=png&color=000000" width="100"/>
   </a>
 </p>
