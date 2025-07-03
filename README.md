@@ -70,28 +70,30 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
-### <img src="https://img.icons8.com/?size=100&id=PQWF74ssNXGy&format=png&color=000000" width="20" height="20"> AI Pneumonia Detector
+### <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="20" height="20"> AI Pneumonia Detector
 
-Built and deployed a deep learning-based pneumonia classification system using X-ray images.
-Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
-Integrated Grad-CAM visualizations to enhance explainability of AI predictions.
-Achieved 96% accuracy and 0.995 AUC via ensemble learning with Dynamic Confidence-Based Voting to avoid misleading prediction.
-Deployed real-time app using Streamlit for user-friendly diagnosis support.
+- Built and deployed a deep learning-based pneumonia classification system using X-ray images.
+- Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
+- Integrated Grad-CAM visualizations to enhance explainability of AI predictions.
+- Achieved 96% accuracy and 0.995 AUC via ensemble learning with Dynamic Confidence-Based Voting to avoid misleading prediction.
+- Deployed real-time app using Streamlit for user-friendly diagnosis support.
 
-[Live App](https://pneumoniadetection.streamlit.app) | [Repo](https://github.com/sarmi2325/Pneumonia_detection)
+[![Live Demo](https://media.giphy.com/media/IeRdg7fHfXEDC/giphy.gif)](https://pneumoniadetection.streamlit.app)
+[![GitHub Repo](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github)](https://github.com/sarmi2325/Pneumonia_detection)
 
-### <img src="https://img.icons8.com/?size=100&id=tF7AoazxB4VQ&format=png&color=000000" width="20" height="20"> Linear Algebra Visual Toolkit
+### <img src="https://img.icons8.com/?size=100&id=RaB8sLnc9oVk&format=png&color=000000" width="30" height="30"> Linear Algebra Visual Toolkit
 
-Gaussian Elimination, Matrix Transformations, PCA — all from scratch.
-Interactive + educational + beautifully visualized in Streamlit.
+- Developed a web-based toolkit using Python and Streamlit to visualize and solve linear algebra problems.
+- Implemented modules for Gaussian elimination, 2D/3D matrix transformation visualization, and Principal Component Analysis (PCA) from scratch using eigen decomposition.
+- Designed interactive interfaces to help users bridge theoretical concepts with practical applications.
 [Live App](https://linear-algebra-visual-toolkit.streamlit.app) | [Repo](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
-### <img src="https://img.icons8.com/?size=100&id=Y5XXeqSu2PwS&format=png&color=000000" width="20" height="20"> Customer Churn Predictor
+### <img src="https://img.icons8.com/?size=100&id=Y5XXeqSu2PwS&format=png&color=000000" width="30" height="30"> Customer Churn Predictor
 
-Built a telecom churn prediction model using multiple linear models; finalized Logistic Regression with L1 regularization (Accuracy: 74%, Recall: 77%, ROC-AUC: 0.82).
-Applied feature engineering, SMOTE, and SHAP for explainability and interpretability.
-Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
-Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
+- Built a telecom churn prediction model using multiple linear models; finalized Logistic Regression with L1 regularization (Accuracy: 74%, Recall: 77%, ROC-AUC: 0.82).
+- Applied feature engineering, SMOTE, and SHAP for explainability and interpretability.
+- Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
+- Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
 
 [Live App](https://churnpredictionwebsite.streamlit.app) | [Repo](https://github.com/sarmi2325/Churn_Prediction_website)
 
