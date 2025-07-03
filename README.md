@@ -68,7 +68,7 @@
 
 ---
 
-## ✨ Projects
+## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="30" height="30"> Projects
 
 ### 🫁 AI Pneumonia Detector
 
@@ -100,7 +100,7 @@ Includes login, search, and publishing features.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="30" height="30"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarmi2325&show_icons=true&theme=radical" width="47%"/>
@@ -109,7 +109,7 @@ Includes login, search, and publishing features.
 
 ---
 
-## 🤝 Connect with Me
+##  <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" width="30" height="30"> Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sarmithas"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
