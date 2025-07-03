@@ -18,22 +18,22 @@
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   Passionate about solving real-world problems in <strong>healthcare, education, and automation</strong> through scalable and explainable ML systems.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   My focus spans from <strong>deep learning</strong> (CNNs, transfer learning) to the mathematical foundations like <strong>linear algebra</strong>, PCA, and matrix transformations.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/UQBnDndWQU8IE/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   Developed impactful applications like X-ray pneumonia classifiers and churn prediction engines — transforming <strong>math into motion</strong> using modern ML techniques.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/Y3r9u4GkZmRfyQhMNo/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   <strong>Published researcher</strong> with an IEEE Scopus-indexed paper on IoT-based prosthetic leg monitoring for real-time rehabilitation feedback.
 </p>
 
