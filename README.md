@@ -1,11 +1,11 @@
-<!-- 🚀 Dynamic Intro Animation -->
+<!-- 🚀 Animated Introduction -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi+I+am+Sarmitha+S%2C+Machine+Learning+Enthusiast.;%E2%9C%8D%EF%B8%8F+Spanning+through+dimensions+of+data%2C+logic+and+neural+networks.;%F0%9F%94%8E+Building+intelligence+one+epoch+at+a+time.;%F0%9F%A7%90+Turning+Math+into+Motion+%7C+Vision+into+Code.;%F0%9F%8C%9F+Exploring+the+hidden+layers+of+life." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&color=00C2CB&center=true&vCenter=true&width=900&lines=Hi+I+am+Sarmitha+S.;Machine+Learning+Enthusiast.;Spanning+through+dimensions+of+data%2C+logic%2C+and+neural+networks.;Building+intelligence+one+epoch+at+a+time."/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="ML Girl AI"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Techy ML girl animation"/>
 </p>
 
 ---
@@ -23,12 +23,28 @@
 ## 🛠 Tech Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" title="Streamlit"/>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><sub>Python</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br><sub>NumPy</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br><sub>Pandas</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br><sub>TensorFlow</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/><br><sub>Keras</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/><br><sub>Streamlit</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -77,9 +93,13 @@ Includes login, search, and publishing features.
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarmithas"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/></a>
-  <a href="mailto:sarmi8822@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/></a>
+  <a href="https://linkedin.com/in/sarmithas"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sarmi8822@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="35"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/0CO4zMcnlX0MnSJJGZ/giphy.gif" width="260">
 </p>
 
 ---
@@ -91,6 +111,6 @@ Includes login, search, and publishing features.
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0K4kWJirrp3gG3Cw/giphy.gif" width="250"><br>
-  <sub><i>(AI girl working... more features loading soon!)</i></sub>
+  <img src="https://media.giphy.com/media/0DTMGnGk6ZchzDyRRA/giphy.gif" width="250">
+  <br><sub><i>(Exploring new models... stay tuned for more 🤖)</i></sub>
 </p>
