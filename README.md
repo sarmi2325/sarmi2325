@@ -109,12 +109,12 @@ Includes login, search, and publishing features.
 
 ---
 
-##  <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" width="30" height="30"> Connect with Me
+##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXppa2E0cXJxaGN5YzI3a2s4cmNxenplMzY3czJmY3RnOGh5cG9hYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8NsVKoN9U5Jr4KbA6M/giphy.gif" width="30" height="30">
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarmithas"><img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sarmi8822@gmail.com"><img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing"><img src="https://img.icons8.com/?size=100&id=63919&format=png&color=000000" width="50"/></a>
+  <a href="https://linkedin.com/in/sarmithas"><img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sarmi8822@gmail.com"><img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing"><img src="https://img.icons8.com/?size=100&id=63919&format=png&color=000000" width="100"/></a>
 </p>
 
 <p align="center">
