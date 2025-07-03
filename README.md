@@ -108,7 +108,7 @@ Includes login, search, and publishing features.
 </p>
 
 ---
-## <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" width="30" height="40"> Connect with me
+## <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" width="50" height="50"> Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/sarmithas">
     <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" width="100"/>
