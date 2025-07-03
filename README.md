@@ -1,11 +1,14 @@
-<!-- Hero Animation Header -->
+<!-- 🎬 Animated Intro Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+I+am+Sarmitha+S%2C+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Spanning+through+dimensions+of+data%2C+logic%2C+and+neural+networks+%F0%9F%94%8E+;Building+intelligence+one+epoch+at+a+time+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+I+am+Sarmitha+S%2C+Machine+Learning+Enthusiast;Spanning+through+dimensions+of+data%2C+logic%2C+and+neural+networks;Building+intelligence+one+epoch+at+a+time+%F0%9F%92%BB;Turning+Math+into+Motion+%7C+Vision+into+Code;Exploring+the+hidden+layers+of+life" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="ML Girl GIF"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-machine-learning-49-1175060.png?f=webp&w=256" width="60"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-ai-59-1175199.png?f=webp&w=256" width="60"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-deep-learning-15-1175210.png?f=webp&w=256" width="60"/>
 </p>
 
 ---
@@ -24,12 +27,24 @@
 
 <table>
   <tr>
-    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></picture></td>
-    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></picture></td>
-    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></picture></td>
-    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></picture></td>
-    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/></picture></td>
-    <td><picture><source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" media="(prefers-color-scheme: dark)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/></picture></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><sub>NumPy</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><sub>Pandas</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br><sub>TensorFlow</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br><sub>Keras</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br><sub>Streamlit</sub>
+    </td>
   </tr>
 </table>
 
@@ -91,3 +106,4 @@ Includes login, search, and publishing features.
 </p>
 
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
+
