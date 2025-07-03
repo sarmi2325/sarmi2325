@@ -13,27 +13,27 @@
 ## <img src="https://img.icons8.com/?size=100&id=9VI8KbP5hWkt&format=png&color=000000" width="20" height="20"> About Me
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  <strong>Final-year Machine Learning engineer</strong> at <em>Sri Ramakrishna Engineering College</em>, with a CGPA of <strong>9.15/10</strong>. I design intelligent solutions that combine theory, mathematics, and real-world data.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <strong>Recent engineering graduate with a keen interest in Machine Learning, combining strong analytical skills with hands-on experience in real-world ML projects.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  Passionate about solving real-world problems in <strong>healthcare, education, and automation</strong> through scalable and explainable ML systems.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+ Focused on designing and deploying end-to-end AI solutions, from data preprocessing to model explainability and deployment using modern frameworks.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  My focus spans from <strong>deep learning</strong> (CNNs, transfer learning) to the mathematical foundations like <strong>linear algebra</strong>, PCA, and matrix transformations.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  Enthusiastic about mathematical foundations of ML — particularly linear algebra, PCA, and optimization — and how they power intelligent systems.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   Developed impactful applications like X-ray pneumonia classifiers and churn prediction engines — transforming <strong>math into motion</strong> using modern ML techniques.
 </p><br>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   <strong>Published researcher</strong> with an IEEE Scopus-indexed paper on IoT-based prosthetic leg monitoring for real-time rehabilitation feedback.
 </p>
 
@@ -70,7 +70,7 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
-## <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="25" height="25"> AI Pneumonia Detector
+### AI Pneumonia Detector
 
 - Built and deployed a deep learning-based pneumonia classification system using X-ray images.
 - Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
@@ -81,7 +81,7 @@
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneumoniadetection.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Pneumonia_detection)
 
-## <img src="https://img.icons8.com/?size=100&id=cc1lByaabDL4&format=png&color=000000" width="30" height="30"> Linear Algebra Visual Toolkit
+### Linear Algebra Visual Toolkit
 
 - Developed a web-based toolkit using Python and Streamlit to visualize and solve linear algebra problems.
 - Implemented modules for Gaussian elimination, 2D/3D matrix transformation visualization, and Principal Component Analysis (PCA) from scratch using eigen decomposition.
@@ -91,7 +91,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
 
-## <img src="https://img.icons8.com/?size=100&id=g6VjoUuWlyUr&format=png&color=000000" width="30" height="30"> Customer Churn Predictor
+### Customer Churn Predictor
 
 - Built a telecom churn prediction model using multiple linear models; finalized Logistic Regression with L1 regularization (Accuracy: 74%, Recall: 77%, ROC-AUC: 0.82).
 - Applied feature engineering, SMOTE, and SHAP for explainability and interpretability.
