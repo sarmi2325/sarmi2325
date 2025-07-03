@@ -124,7 +124,7 @@ Includes login, search, and publishing features.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsW8M0cYy4bL6OY/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enVlcXV1NjBjMHlvcjIxaDI2ZXg1dGllaXE5MXhjOW04eHBqbWowciZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/L3QKaum8bJ0MzND4iU/giphy.gif" width="300">
 </p>
 
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
