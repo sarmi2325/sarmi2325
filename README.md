@@ -10,7 +10,9 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=NvhQslEHEfaD&format=png&color=000000" width="30" height="30"> About Me
+## <img src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 40 40">
+<path fill="none" stroke="#4788c7" stroke-miterlimit="10" stroke-width="2" d="M14,11V8c0-1.105,0.895-2,2-2h8 c1.105,0,2,0.895,2,2v3"></path><path fill="#b6dcfe" d="M1.5 17.5H38.5V34.5H1.5z"></path><path fill="#4788c7" d="M38,18v16H2V18H38 M39,17H1v18h38V17L39,17z"></path><path fill="#dff0fe" d="M1.5,19.5V12c0-0.827,0.673-1.5,1.5-1.5h34c0.827,0,1.5,0.673,1.5,1.5v7.5H1.5z"></path><path fill="#4788c7" d="M37,11c0.551,0,1,0.449,1,1v7H2v-7c0-0.551,0.449-1,1-1H37 M37,10H3c-1.105,0-2,0.895-2,2v8h38v-8 C39,10.895,38.105,10,37,10L37,10z"></path><g><path fill="#fff" d="M27.5 16.5H31.5V22.5H27.5z"></path><path fill="#4788c7" d="M31,17v5h-3v-5H31 M32,16h-5v7h5V16L32,16z"></path></g><g><path fill="#fff" d="M8.5 16.5H12.5V22.5H8.5z"></path><path fill="#4788c7" d="M12,17v5H9v-5H12 M13,16H8v7h5V16L13,16z"></path></g>
+</svg>" width="30" height="30"> About Me
 
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
