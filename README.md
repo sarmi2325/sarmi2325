@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="ML Girl GIF"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-machine-learning-49-1175060.png?f=webp&w=256" width="60"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-ai-59-1175199.png?f=webp&w=256" width="60"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-deep-learning-15-1175210.png?f=webp&w=256" width="60"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="ML Girl GIF"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="220" alt="ML girl coding"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Tech stack girl"/>
 </p>
 
 ---
@@ -30,18 +29,23 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><sub>Python</sub>
     </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><sub>NumPy</sub>
     </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><sub>Pandas</sub>
     </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br><sub>TensorFlow</sub>
     </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br><sub>Keras</sub>
     </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br><sub>Streamlit</sub>
     </td>
@@ -102,8 +106,13 @@ Includes login, search, and publishing features.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW0YpJ8CKMt2/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3o6ZsW8M0cYy4bL6OY/giphy.gif" width="300">
 </p>
 
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="250"><br>
+  <sub><i>(more animations coming soon...)</i></sub>
+</p>
 
