@@ -13,7 +13,7 @@
 ## <img src="https://media.giphy.com/media/1h8lTjkGdO65xYf2Mw/giphy.gif" width="30"> About Me
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBsbW5wem0zeXVlcm9xeWo5MmJrYmdlcWtkeHJxMDFkbnFuNzY0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N7bkObjUrvn9X1egb4/giphy.gif" width="50" align="left" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3QxMXZwODM4NGhuaG0xaW14Nmw1bHp3YWFjdTFhMTh6djVmY2xseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yidwaaQynkxPNci94z/giphy.gif" width="50" align="left" style="margin-right: 10px;">
   <strong>Final-year Machine Learning engineer</strong> at <em>Sri Ramakrishna Engineering College</em>, with a CGPA of <strong>9.15/10</strong>. I design intelligent solutions that combine theory, mathematics, and real-world data.
 </p><br>
 
