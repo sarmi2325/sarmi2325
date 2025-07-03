@@ -1,13 +1,11 @@
 <!-- 🎬 Animated Intro Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+I+am+Sarmitha+S%2C+Machine+Learning+Enthusiast;Spanning+through+dimensions+of+data%2C+logic%2C+and+neural+networks;Building+intelligence+one+epoch+at+a+time+%F0%9F%92%BB;Turning+Math+into+Motion+%7C+Vision+into+Code;Exploring+the+hidden+layers+of+life" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hi+I+am+Sarmitha+S%2C+Machine+Learning+Enthusiast;Spanning+through+dimensions+of+data%2C+logic%2C+and+neural+networks;Building+intelligence+one+epoch+at+a+time+%F0%9F%92%BB;Turning+Math+into+Motion+%7C+Vision+into+Code;Exploring+the+hidden+layers+of+life" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="ML Girl GIF"/>
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="220" alt="ML girl coding"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Tech stack girl"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="ML Girl GIF"/>
 </p>
 
 ---
@@ -27,27 +25,27 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><sub>Python</sub>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/><br><sub>Python</sub>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><sub>NumPy</sub>
+      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/><br><sub>NumPy</sub>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><sub>Pandas</sub>
+      <img src="https://media.giphy.com/media/l3vRn3I4p5X3e/giphy.gif" width="60"/><br><sub>Pandas</sub>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br><sub>TensorFlow</sub>
+      <img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="60"/><br><sub>TensorFlow</sub>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br><sub>Keras</sub>
+      <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="60"/><br><sub>Keras</sub>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br><sub>Streamlit</sub>
+      <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="60"/><br><sub>Streamlit</sub>
     </td>
   </tr>
 </table>
@@ -111,8 +109,4 @@ Includes login, search, and publishing features.
 
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="250"><br>
-  <sub><i>(more animations coming soon...)</i></sub>
-</p>
 
