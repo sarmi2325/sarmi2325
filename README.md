@@ -70,7 +70,7 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
-### <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="40" height="40"> AI Pneumonia Detector
+### <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="30" height="30"> AI Pneumonia Detector
 
 - Built and deployed a deep learning-based pneumonia classification system using X-ray images.
 - Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
@@ -98,7 +98,7 @@
 - Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
 - Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
 
-[Li[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite.streamlit.app)
+[[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Churn_Prediction_website)
 
 ---
