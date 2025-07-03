@@ -112,8 +112,8 @@ Includes login, search, and publishing features.
 ##  <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" width="30" height="30"> Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarmithas"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sarmi8822@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sarmithas"><img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sarmi8822@gmail.com"><img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="35"/></a>
 </p>
 
@@ -124,12 +124,9 @@ Includes login, search, and publishing features.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enVlcXV1NjBjMHlvcjIxaDI2ZXg1dGllaXE5MXhjOW04eHBqbWowciZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/L3QKaum8bJ0MzND4iU/giphy.gif" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFicTcyc2YwdHFwM2F3eTF1a2pxeGEyaXFjYWwzaTNoanZ0aDJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kksFTNC9TL93AnhuLi/giphy.gif" width="300">
 </p>
 
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3owaTJ2cHBuaDN2YTNtcjJvdzJ2emo0NzN1dWZhOTlscnk0NW5ndSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PXuwQk2UVnZ3y9U0p8/giphy.gif" width="250">
-  <br><sub><i>(Exploring new models... stay tuned for more 🤖)</i></sub>
-</p>
+
