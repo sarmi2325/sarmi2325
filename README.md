@@ -45,7 +45,7 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/?size=100&id=3cONxASh16fq&format=png&color=000000" width="50"/><br><sub>Python</sub>
+        <img src="https://img.icons8.com/?size=100&id=3cONxASh16fq&format=png&color=000000" width="70"/><br><sub>Python</sub>
       </td>
       <td align="center" width="120">
         <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="50"/><br><sub>NumPy</sub>
@@ -72,20 +72,27 @@
 
 ### <img src="https://img.icons8.com/?size=100&id=PQWF74ssNXGy&format=png&color=000000" width="20" height="20"> AI Pneumonia Detector
 
-Real-time X-ray classification using MobileNetV2 + Grad-CAM.
-Achieved 96% accuracy and AUC 0.995 — deployed with Streamlit.
+Built and deployed a deep learning-based pneumonia classification system using X-ray images.
+Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
+Integrated Grad-CAM visualizations to enhance explainability of AI predictions.
+Achieved 96% accuracy and 0.995 AUC via ensemble learning with Dynamic Confidence-Based Voting to avoid misleading prediction.
+Deployed real-time app using Streamlit for user-friendly diagnosis support.
+
 [Live App](https://pneumoniadetection.streamlit.app) | [Repo](https://github.com/sarmi2325/Pneumonia_detection)
 
-### 📐 Linear Algebra Visual Toolkit
+### <img src="https://img.icons8.com/?size=100&id=tF7AoazxB4VQ&format=png&color=000000" width="20" height="20"> Linear Algebra Visual Toolkit
 
 Gaussian Elimination, Matrix Transformations, PCA — all from scratch.
 Interactive + educational + beautifully visualized in Streamlit.
 [Live App](https://linear-algebra-visual-toolkit.streamlit.app) | [Repo](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
-### 📉 Customer Churn Predictor
+### <img src="https://img.icons8.com/?size=100&id=Y5XXeqSu2PwS&format=png&color=000000" width="20" height="20"> Customer Churn Predictor
 
-Built with Logistic Regression + LGBM + SHAP explainability.
-Batch upload + threshold sliders for full interactivity.
+Built a telecom churn prediction model using multiple linear models; finalized Logistic Regression with L1 regularization (Accuracy: 74%, Recall: 77%, ROC-AUC: 0.82).
+Applied feature engineering, SMOTE, and SHAP for explainability and interpretability.
+Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
+Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
+
 [Live App](https://churnpredictionwebsite.streamlit.app) | [Repo](https://github.com/sarmi2325/Churn_Prediction_website)
 
 
