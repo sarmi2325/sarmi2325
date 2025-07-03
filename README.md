@@ -108,7 +108,7 @@ Includes login, search, and publishing features.
 </p>
 
 ---
-
+## <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" width="30" height="40"> Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/sarmithas">
     <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" width="100"/>
@@ -121,9 +121,7 @@ Includes login, search, and publishing features.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXppa2E0cXJxaGN5YzI3a2s4cmNxenplMzY3czJmY3RnOGh5cG9hYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8NsVKoN9U5Jr4KbA6M/giphy.gif" width="300"/>
-</p>
+
 
 
 ---
