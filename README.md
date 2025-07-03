@@ -12,30 +12,11 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=9VI8KbP5hWkt&format=png&color=000000" width="20" height="20"> About Me
 
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  <strong>Recent engineering graduate with a keen interest in Machine Learning, combining strong analytical skills with hands-on experience in real-world ML projects.
-</p><br>
-
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
- Focused on designing and deploying end-to-end AI solutions, from data preprocessing to model explainability and deployment using modern frameworks.
-</p><br>
-
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  Enthusiastic about mathematical foundations of ML — particularly linear algebra, PCA, and optimization — and how they power intelligent systems.
-</p><br>
-
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  Developed impactful applications like X-ray pneumonia classifiers and churn prediction engines — transforming <strong>math into motion</strong> using modern ML techniques.
-</p><br>
-
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M3J3OW0zZXU3b2hyb3psYml0aWNuaHUyNm53ZW5zajF6MDZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVE8OaIGkUhf7rkieR/giphy.gif" width="50" align="left" style="margin-right: 10px;">
-  <strong>Published researcher</strong> with an IEEE Scopus-indexed paper on IoT-based prosthetic leg monitoring for real-time rehabilitation feedback.
-</p>
+- Recent engineering graduate with a keen interest in Machine Learning, combining strong analytical skills with hands-on experience in real-world ML projects. 
+- Focused on designing and deploying end-to-end AI solutions, from data preprocessing to model explainability and deployment using modern frameworks.
+- Enthusiastic about mathematical foundations of ML — particularly linear algebra, PCA, and optimization — and how they power intelligent systems.
+- Developed impactful applications like X-ray pneumonia classifiers and churn prediction engines — transforming math into motion using modern ML techniques.
+- Published researcher with an IEEE Scopus-indexed paper on IoT-based prosthetic leg monitoring for real-time rehabilitation feedback.
 
 ---
 
