@@ -99,7 +99,7 @@ Includes login, search, and publishing features.
 </p>
 
 <p align="center">
-  <img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhmbWo2NHpqMjUwdG93ZWZwbmp1NTJnenBjbnhvcHhzemFpZ2p2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif)" width="260">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhmbWo2NHpqMjUwdG93ZWZwbmp1NTJnenBjbnhvcHhzemFpZ2p2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="260">
 </p>
 
 ---
@@ -110,7 +110,4 @@ Includes login, search, and publishing features.
 
 <p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/0DTMGnGk6ZchzDyRRA/giphy.gif" width="250">
-  <br><sub><i>(Exploring new models... stay tuned for more 🤖)</i></sub>
-</p>
+
