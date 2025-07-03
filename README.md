@@ -70,7 +70,7 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
-## <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="30" height="30"> AI Pneumonia Detector
+## <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="25" height="25"> AI Pneumonia Detector
 
 - Built and deployed a deep learning-based pneumonia classification system using X-ray images.
 - Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
