@@ -70,7 +70,7 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
 
-### <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="30" height="30"> AI Pneumonia Detector
+## <img src="https://img.icons8.com/?size=100&id=M02m5lDEyOcm&format=png&color=000000" width="30" height="30"> AI Pneumonia Detector
 
 - Built and deployed a deep learning-based pneumonia classification system using X-ray images.
 - Trained 3 models (Simple CNN, MobileNetV2, EfficientNetB0) with augmentation, fine-tuning, and early stopping.
@@ -81,7 +81,7 @@
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneumoniadetection.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Pneumonia_detection)
 
-### <img src="https://img.icons8.com/?size=100&id=cc1lByaabDL4&format=png&color=000000" width="40" height="40"> Linear Algebra Visual Toolkit
+## <img src="https://img.icons8.com/?size=100&id=cc1lByaabDL4&format=png&color=000000" width="30" height="30"> Linear Algebra Visual Toolkit
 
 - Developed a web-based toolkit using Python and Streamlit to visualize and solve linear algebra problems.
 - Implemented modules for Gaussian elimination, 2D/3D matrix transformation visualization, and Principal Component Analysis (PCA) from scratch using eigen decomposition.
@@ -91,14 +91,14 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
 
-### <img src="https://img.icons8.com/?size=100&id=g6VjoUuWlyUr&format=png&color=000000" width="40" height="40"> Customer Churn Predictor
+## <img src="https://img.icons8.com/?size=100&id=g6VjoUuWlyUr&format=png&color=000000" width="30" height="30"> Customer Churn Predictor
 
 - Built a telecom churn prediction model using multiple linear models; finalized Logistic Regression with L1 regularization (Accuracy: 74%, Recall: 77%, ROC-AUC: 0.82).
 - Applied feature engineering, SMOTE, and SHAP for explainability and interpretability.
 - Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
 - Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
 
-[[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Churn_Prediction_website)
 
 ---
