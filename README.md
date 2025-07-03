@@ -68,7 +68,7 @@
 - Implemented modules for Gaussian elimination, 2D/3D matrix transformation visualization, and Principal Component Analysis (PCA) from scratch using eigen decomposition.
 - Designed interactive interfaces to help users bridge theoretical concepts with practical applications.
 - 
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit-darkgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://linear-algebra-visual-toolkit.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-darkgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://linear-algebra-visual-toolkit-pnrigscsyfkeaxxrkfhvgv.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
 
@@ -79,7 +79,7 @@
 - Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
 - Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
 
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite-nqmgbprqwncjztvksystgd.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Churn_Prediction_website)
 
 ---
