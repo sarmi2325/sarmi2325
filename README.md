@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠 Tech Toolbox
+## <img src="https://img.icons8.com/?size=100&id=52117&format=png&color=000000" width="30" height="30"> Tech Toolbox
 
 <p align="center">
   <table>
