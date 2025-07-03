@@ -45,16 +45,16 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><sub>Python</sub>
+        <img src="https://img.icons8.com/?size=100&id=3cONxASh16fq&format=png&color=000000" width="50"/><br><sub>Python</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br><sub>NumPy</sub>
+        <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="50"/><br><sub>NumPy</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br><sub>Pandas</sub>
+        <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50"/><br><sub>Pandas</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br><sub>TensorFlow</sub>
+        <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" width="50"/><br><sub>TensorFlow</sub>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/><br><sub>Keras</sub>
@@ -88,10 +88,6 @@ Built with Logistic Regression + LGBM + SHAP explainability.
 Batch upload + threshold sliders for full interactivity.
 [Live App](https://churnpredictionwebsite.streamlit.app) | [Repo](https://github.com/sarmi2325/Churn_Prediction_website)
 
-### 💸 Expense Tracker (Coming Soon)
-
-Intuitive Streamlit app to track spending habits.
-Includes dynamic dashboards and budget visualization.
 
 ---
 
