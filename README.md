@@ -116,6 +116,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFicTcyc2YwdHFwM2F3eTF1a2pxeGEyaXFjYWwzaTNoanZ0aDJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kksFTNC9TL93AnhuLi/giphy.gif" width="300">
 </p>
 
-<p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
+<p align="center"><i>"If you can visualize it, you can understand it."</i></p>
 
 
