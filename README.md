@@ -99,7 +99,7 @@ Includes login, search, and publishing features.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/0CO4zMcnlX0MnSJJGZ/giphy.gif" width="260">
+  <img src="[https://media.giphy.com/media/0CO4zMcnlX0MnSJJGZ/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhmbWo2NHpqMjUwdG93ZWZwbmp1NTJnenBjbnhvcHhzemFpZ2p2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif)" width="260">
 </p>
 
 ---
