@@ -1,26 +1,22 @@
-<!-- Animated intro header -->
+<!-- Hero Animation Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I+am+Sarmitha+%F0%9F%91%8B;Machine+Learning+Enthusiast+%7C+Techy+Girl+in+Action+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Spanning+through+all+dimensions+with+AI+%F0%9F%98%85+;Building+Intelligent+Solutions+with+Code+%F0%9F%92%BB%F0%9F%A7%91%E2%80%8D%F0%9F%A7%A0"
-  alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+I+am+Sarmitha+S%2C+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Spanning+through+dimensions+of+data%2C+logic%2C+and+neural+networks+%F0%9F%94%8E+;Building+intelligence+one+epoch+at+a+time+%F0%9F%92%BB" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="ML Girl GIF"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" alt="Techy girl AI builder"/>
-</p>
-
----
-
-## 👩‍💻 About Me
+## <img src="https://media.giphy.com/media/1h8lTjkGdO65xYf2Mw/giphy.gif" width="30"> About Me
 
 🎓 Final-year ML-focused engineer at Sri Ramakrishna Engineering College (CGPA: **9.15/10**)
-🧠 Passionate about **AI**, **ML**, and **explainable models** that make a difference
-💡 Love turning math into visual tools: Gaussian elimination, PCA, matrix transformations
-⚙️ Deployed real-world projects in healthcare, finance, and resume optimization
-📝 IEEE Scopus-indexed author on IoT prosthetic monitoring
-🚀 Constantly exploring, building, learning — one model at a time 💥
+🧠 Obsessed with building ML systems that make a difference — from healthcare to education
+🔭 Exploring the hidden layers of deep learning and the eigenworld of linear algebra
+📈 Turning math into motion: PCA, matrix transforms, X-ray classification, and more
+📚 Published author in IEEE Scopus-indexed conference on IoT-based prosthetic monitoring
 
 ---
 
@@ -39,35 +35,35 @@
 
 ---
 
-## 🚀 Highlight Projects
+## ✨ Projects
 
 ### 🫁 AI Pneumonia Detector
 
-> Real-time X-ray classification using MobileNetV2 + Grad-CAM
-> Achieved 96% accuracy and AUC 0.995 — deployed with Streamlit
-> [Live App](https://pneumoniadetection.streamlit.app) | [Repo](https://github.com/sarmi2325/Pneumonia_detection)
+Real-time X-ray classification using MobileNetV2 + Grad-CAM.
+Achieved 96% accuracy and AUC 0.995 — deployed with Streamlit.
+[Live App](https://pneumoniadetection.streamlit.app) | [Repo](https://github.com/sarmi2325/Pneumonia_detection)
 
 ### 📐 Linear Algebra Visual Toolkit
 
-> Gaussian Elimination, Matrix Transformations, PCA — all from scratch
-> Interactive + educational + beautifully visualized in Streamlit
-> [Live App](https://linear-algebra-visual-toolkit.streamlit.app) | [Repo](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
+Gaussian Elimination, Matrix Transformations, PCA — all from scratch.
+Interactive + educational + beautifully visualized in Streamlit.
+[Live App](https://linear-algebra-visual-toolkit.streamlit.app) | [Repo](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
 ### 📉 Customer Churn Predictor
 
-> Built with Logistic Regression + LGBM + SHAP explainability
-> Batch upload + threshold sliders for full interactivity
-> [Live App](https://churnpredictionwebsite.streamlit.app) | [Repo](https://github.com/sarmi2325/Churn_Prediction_website)
+Built with Logistic Regression + LGBM + SHAP explainability.
+Batch upload + threshold sliders for full interactivity.
+[Live App](https://churnpredictionwebsite.streamlit.app) | [Repo](https://github.com/sarmi2325/Churn_Prediction_website)
 
 ### 💸 Expense Tracker (Coming Soon)
 
-> Intuitive Streamlit web app to track expenses and spending habits
-> Focus on dashboards, pie charts, and interactive categories
+Intuitive Streamlit app to track spending habits.
+Includes dynamic dashboards and budget visualization.
 
-### ✍️ Scriptum — Blog App (Coming Soon)
+### ✍️ Scriptum Blog App (Coming Soon)
 
-> Blog-driven platform with Markdown support
-> Built using Streamlit + Firebase with user auth and search
+Markdown-based blogging platform using Streamlit + Firebase.
+Includes login, search, and publishing features.
 
 ---
 
@@ -80,12 +76,13 @@
 
 ---
 
-## 📫 Reach Me Here
+## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/sarmithas)
-📧 **[sarmi8822@gmail.com](mailto:sarmi8822@gmail.com)**
-📄 [View Resume](https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing)
-🌐 [Portfolio](https://your-portfolio.com) *(Coming soon)*
+<p align="center">
+  <a href="https://linkedin.com/in/sarmithas"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/></a>
+  <a href="mailto:sarmi8822@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/></a>
+  <a href="https://drive.google.com/file/d/1Tg9tJQz_QZhoFnuho8Se0PUgEfRQjBx-/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="35"/></a>
+</p>
 
 ---
 
@@ -93,5 +90,4 @@
   <img src="https://media.giphy.com/media/xUOxfjsW0YpJ8CKMt2/giphy.gif" width="300">
 </p>
 
-> *"If you can visualize it, you can understand it." — Sarmitha S*
-
+<p align="center"><i>"If you can visualize it, you can understand it." — Sarmitha S</i></p>
