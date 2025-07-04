@@ -67,7 +67,7 @@
 - Developed a web-based toolkit using Python and Streamlit to visualize and solve linear algebra problems.
 - Implemented modules for Gaussian elimination, 2D/3D matrix transformation visualization, and Principal Component Analysis (PCA) from scratch using eigen decomposition.
 - Designed interactive interfaces to help users bridge theoretical concepts with practical applications.
-- 
+
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-darkgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://linear-algebra-visual-toolkit-pnrigscsyfkeaxxrkfhvgv.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
