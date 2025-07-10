@@ -70,7 +70,7 @@
 - Designed a hybrid RAG architecture for easy extension into semantic or hybrid search in the future.
 - Deployed on Render using Python, Flask, and Gunicorn for scalable web access.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://sarmitha-ai-portfolio.onrender.com/)  
+[![Live App](https://img.shields.io/badge/Live_Demo-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://sarmitha-ai-portfolio.onrender.com/)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/AI-Portfolio)
 
 ### Linear Algebra Visual Toolkit
