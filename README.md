@@ -62,6 +62,17 @@
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneumoniadetection.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Pneumonia_detection)
 
+### Retrieval-Augmented Resume Chatbot
+
+- Developed a modular chatbot that answers resume-related queries using keyword-based retrieval with BM25 (`rank_bm25`).
+- Combined retrieval with a system prompt fallback to ensure robust and contextually grounded responses.
+- Implemented multilingual support using `langdetect` and `deep-translator` to enhance accessibility.
+- Designed a hybrid RAG architecture for easy extension into semantic or hybrid search in the future.
+- Deployed on Render using Python, Flask, and Gunicorn for scalable web access.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://sarmitha-ai-portfolio.onrender.com/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/AI-Portfolio)
+
 ### Linear Algebra Visual Toolkit
 
 - Developed a web-based toolkit using Python and Streamlit to visualize and solve linear algebra problems.
