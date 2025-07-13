@@ -94,7 +94,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Churn_Prediction_website)
 
 
-### Scriptum — Blog App 
+### Scriptum (Blog App) 
 
 - Developed a full-featured blogging platform using Flask with support for **public and private posts**.
 - Integrated **Google OAuth 2.0** alongside traditional email-password login using Flask-Login and Flask-Dance.
