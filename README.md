@@ -93,6 +93,26 @@
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite-nqmgbprqwncjztvksystgd.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Churn_Prediction_website)
 
+
+### Scriptum — Blog App 
+
+- Developed a full-featured blogging platform using Flask with support for **public and private posts**.
+- Integrated **Google OAuth 2.0** alongside traditional email-password login using Flask-Login and Flask-Dance.
+- Embedded **TinyMCE** rich text editor for a smooth writing experience with formatting support.
+- Private posts appear only in the user’s dashboard; public posts are shown site-wide.
+- Deployed the project on **Render** with dynamic routing, session management, and SQLite backend.
+
+[![Live App](https://img.shields.io/badge/Live_App-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://scriptum-blog-app.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Scriptum-Blog-App)
+
+---
+
+### 📝 Usage Notes:
+
+- To use Google login, ensure you grant access to your Google email and profile.
+- Once logged in, you can toggle between public/private posts while creating.
+- Posts are saved with timestamp and displayed on the homepage or user dashboard accordingly.
+
 ---
 
 ## <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="20" height="20"> GitHub Stats
