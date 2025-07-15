@@ -107,13 +107,7 @@
 
 ---
 
-### 📝 Usage Notes:
 
-- To use Google login, ensure you grant access to your Google email and profile.
-- Once logged in, you can toggle between public/private posts while creating.
-- Posts are saved with timestamp and displayed on the homepage or user dashboard accordingly.
-
----
 
 ## <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="20" height="20"> GitHub Stats
 
