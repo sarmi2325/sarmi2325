@@ -62,16 +62,14 @@
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneumoniadetection.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Pneumonia_detection)
 
-### Retrieval-Augmented Resume Chatbot
+### AI Portfolio
 
-- Developed a modular chatbot that answers resume-related queries using keyword-based retrieval with BM25 (`rank_bm25`).
-- Combined retrieval with a system prompt fallback to ensure robust and contextually grounded responses.
-- Implemented multilingual support using `langdetect` and `deep-translator` to enhance accessibility.
-- Designed a hybrid RAG architecture for easy extension into semantic or hybrid search in the future.
-- Deployed on Render using Python, Flask, and Gunicorn for scalable web access.
+- Developed a hybrid RAG system leveraging OpenAI GPT-4o, FAISS semantic search, and BM25 fallback, supporting multilingual input with enhanced retrieval accuracy.
+- Implemented dynamic resume content management via Notion API with automatic embedding and index updates, secured by admin authentication.
+- Built a full-stack solution with a Flask backend, responsive frontend, context-aware conversation management, and production-ready deployment on Railway with cross-platform compatibility.
 
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://sarmitha-ai-portfolio.onrender.com/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/AI_Portfolio)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://aiportfoliowebsite-production.up.railway.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/AI_Portfolio_website)
 
 ### Linear Algebra Visual Toolkit
 
@@ -83,15 +81,14 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Linear-Algebra-Visual-Toolkit)
 
 
-### Customer Churn Predictor
+### TalentSynth - Resume Analyzer
 
-- Built a telecom churn prediction model using multiple linear models; finalized Logistic Regression with L1 regularization (Accuracy: 74%, Recall: 77%, ROC-AUC: 0.82).
-- Applied feature engineering, SMOTE, and SHAP for explainability and interpretability.
-- Compared with tree-based models (Random Forest, LightGBM); LightGBM alone yielded ROC-AUC of ~0.82.
-- Stacked Logistic Regression + LightGBM, deployed via Streamlit with user-defined threshold and CSV batch prediction.
+- Developed an AI-powered resume parser using LlamaParse and Google Gemini 2.5 Flash to extract and semantically analyze candidate data against job descriptions.
+- Created a strict rubric-based evaluation system scoring technical, soft skills, experience, and education for precise candidate-job matching.
+- Delivered a secure, scalable Django full-stack app on Railway with Google OAuth authentication and a real-time analytics dashboard for career insights.
 
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://churnpredictionwebsite-nqmgbprqwncjztvksystgd.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Churn_Prediction_website)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white)](https://talentsynthresumermatcher-production.up.railway.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/TalentSynth_Resumer_matcher)
 
 
 ### Scriptum (Blog App) 
