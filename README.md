@@ -68,8 +68,8 @@
 - Implemented dynamic resume content management via Notion API with automatic embedding and index updates, secured by admin authentication.
 - Built a full-stack solution with a Flask backend, responsive frontend, context-aware conversation management, and production-ready deployment on Railway with cross-platform compatibility.
 
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://aiportfoliowebsite-production.up.railway.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/AI_Portfolio_website)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://sarmithaaiportfolio-production.up.railway.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarmitha_AI_Portfolio)
 
 ### Linear Algebra Visual Toolkit
 
