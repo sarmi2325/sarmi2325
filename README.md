@@ -122,7 +122,7 @@
   <a href="mailto:sarmi8822@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1rY9Io6SYrpcJSKMXH5lwAV3yPSULYoBI/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1uQMqUqnmWPiB5OKgjGbu7Z6ZuqoQzK6O/view?usp=sharing">
     <img src="https://img.icons8.com/?size=100&id=63919&format=png&color=000000" width="100"/>
   </a>
 </p>
