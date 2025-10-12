@@ -57,7 +57,7 @@
 - Achieved 96% accuracy and 0.995 AUC via ensemble learning with Dynamic Confidence-Based Voting to avoid misleading prediction.
 - Deployed real-time app using Streamlit for user-friendly diagnosis support.
 
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneumoniadetection.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneumoniadetection-er8mvnqy9s9ejsr2g6wqjk.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-Click_Here-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmi2325/Pneumonia_detection)
 
 ### AI Portfolio
