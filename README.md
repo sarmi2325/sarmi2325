@@ -16,8 +16,6 @@
 - Focused on designing and deploying end-to-end AI solutions, from data preprocessing to model explainability and deployment using modern frameworks.
 - Enthusiastic about mathematical foundations of ML - particularly linear algebra, PCA, and optimization - and how they power intelligent systems.
 - Developed impactful applications like X-ray pneumonia classifiers and churn prediction engines - transforming math into motion using modern ML techniques.
-- Published researcher with an IEEE Scopus-indexed paper on IoT-based prosthetic leg monitoring for real-time rehabilitation feedback.
-
 ---
 
 ## <img src="https://img.icons8.com/?size=100&id=52117&format=png&color=000000" width="20" height="20"> Tech Toolbox
